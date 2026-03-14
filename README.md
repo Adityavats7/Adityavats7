@@ -1,56 +1,78 @@
-👋 Aditya Vats
+👋 Hi, I'm Aditya Vats
+
+<img src="https://komarev.com/ghpvc/?username=Adityavats7&label=Profile%20Views&color=blue&style=flat" />🚀 Developer | Backend Learner | CLI Tool Builder
+💻 Interested in developer tools, system programming, and scalable backend systems.
 
 ---
 
-📊 GitHub Metrics
+📊 GitHub Statistics
 
-"Metrics" (https://metrics.lecoq.io/Adityavats7?template=classic&base.header=0&base.activity=1&base.repositories=1&base.metadata=1&base.community=1&config.timezone=Asia/Kolkata)
-
----
-
-📈 Contribution Activity
-
-"Activity Graph" (https://github-readme-activity-graph.vercel.app/graph?username=Adityavats7)
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Adityavats7&show_icons=true&theme=tokyonight)
 
 ---
 
 🔥 Commit Streak
 
-"GitHub Streak" (https://streak-stats.demolab.com?user=Adityavats7)
+"GitHub Streak" (https://streak-stats.demolab.com?user=Adityavats7&theme=tokyonight)
 
 ---
 
-📊 Repository Languages
+📈 Most Used Languages
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Adityavats7&layout=compact)
-
----
-
-📊 Overall GitHub Stats
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Adityavats7&show_icons=true)
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Adityavats7&layout=compact&theme=tokyonight)
 
 ---
 
-🏆 Achievements
+🏆 GitHub Achievements
 
-"Trophies" (https://github-profile-trophy.vercel.app/?username=Adityavats7)
+"Trophies" (https://github-profile-trophy.vercel.app/?username=Adityavats7&theme=tokyonight)
+
+---
+
+📊 Contribution Graph
+
+"Activity Graph" (https://github-readme-activity-graph.vercel.app/graph?username=Adityavats7&theme=tokyo-night)
 
 ---
 
 📦 Repository Overview
 
-This profile automatically shows:
+"Repo Stats" (https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adityavats7&theme=tokyonight)
 
-- total commits
-- pull requests
-- issues
-- stars received
-- repository activity
-- most used languages
-- contribution streak
-- repository statistics
-- community interactions
-- development timeline
+"Commit Stats" (https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adityavats7&theme=tokyonight)
 
-All data updates automatically based on repository activity.
+"Stats" (https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adityavats7&theme=tokyonight)
+
+---
+
+📅 Contribution Calendar
+
+"GitHub Activity" (https://github-readme-activity-graph.vercel.app/graph?username=Adityavats7)
+
+---
+
+🧰 Tech Stack
+
+"Tech Stack" (https://skillicons.dev/icons?i=js,python,bash,react,nodejs,django,postgres,git,linux,docker,vscode)
+
+---
+
+🧠 Developer Quote
+
+"Quote" (https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+📦 Latest Projects
+
+"Repos" (https://github-contributor-stats.vercel.app/api?username=Adityavats7)
+
+---
+
+🌐 Connect
+
+GitHub: https://github.com/Adityavats7
+
+---
+
+⭐ If you like my work, consider starring my repositories!
