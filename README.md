@@ -10,31 +10,31 @@
 
 📈 Contribution Activity
 
-"Activity Graph" (https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+"Activity Graph" (https://github-readme-activity-graph.vercel.app/graph?username=Adityavats7)
 
 ---
 
 🔥 Commit Streak
 
-"GitHub Streak" (https://streak-stats.demolab.com?user=YOUR_USERNAME)
+"GitHub Streak" (https://streak-stats.demolab.com?user=Adityavats7)
 
 ---
 
 📊 Repository Languages
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Adityavats7&layout=compact)
 
 ---
 
 📊 Overall GitHub Stats
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Adityavats7&show_icons=true)
 
 ---
 
 🏆 Achievements
 
-"Trophies" (https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)
+"Trophies" (https://github-profile-trophy.vercel.app/?username=Adityavats7)
 
 ---
 
